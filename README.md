@@ -4,9 +4,9 @@
 
 <p align = "left" > <img src = "https://komarev.com/ghpvc/?username=nucleomis&label=Profile%20views&color=0e75b6&style=flat" alt = "nucleomis" /> </p>
 
-- 🌱 Actualmente estoy cursando el 3er año de la carrera ** analista de sistemas**
+- 🌱 Actualmente estoy cursando el 3er año de la carrera  analista de sistemas
 
-- 👨‍💻 todos mis proyectos estan disponibles en [https://github.com/nucleomis](https://github.com/nucleomis)
+- 👨‍💻 visita mi gitpage en [https://nucleomis.github.io/](https://nucleomis.github.io/)
 
 - 📫 contactarme **nucleo.mis@gmail.com**
 
