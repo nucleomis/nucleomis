@@ -1,4 +1,4 @@
-### <h1 align = "center"> Hola 👋, mi nombre es Sergio Franco </h1>
+### <h1 align = "center"> <font color="red">Hola 👋, mi nombre es Sergio Franco </font> </h1>
 <h3 align = "center"> Soy programador y estudiante de la carrera de analista de sistemas </h3>
 
 <p align = "left" > <img src = "https://komarev.com/ghpvc/?username=nucleomis&label=Profile%20views&color=0e75b6&style=flat" alt = "nucleomis" /> </p>
