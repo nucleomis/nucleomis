@@ -3,7 +3,7 @@
 
 <p align = "left" > <img src = "https://komarev.com/ghpvc/?username=nucleomis&label=Profile%20views&color=0e75b6&style=flat" alt = "nucleomis" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo ** analisis de sistemas informaticos**
+- 🌱 Actualmente estoy cursando el 3er año de la carrera ** analista de sistemas**
 
 - 👨‍💻 todos mis proyectos estan disponibles en [https://github.com/nucleomis](https://github.com/nucleomis)
 
