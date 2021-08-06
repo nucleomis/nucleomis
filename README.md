@@ -1,5 +1,6 @@
 ###
-<h1 align = "center"><img src="https://user-images.githubusercontent.com/67083471/126088193-9f24a8e1-5123-4f1f-99c7-effdb7b42864.png" height = "150" width = "200">Hola 👋, mi nombre es<img src="https://user-images.githubusercontent.com/67083471/126088193-9f24a8e1-5123-4f1f-99c7-effdb7b42864.png" height = "150" width = "200">  <br>Sergio Franco</h1>
+<p align = "center"><img src="https://user-images.githubusercontent.com/67083471/126088193-9f24a8e1-5123-4f1f-99c7-effdb7b42864.png" height = "150" width = "200"></p>
+<h1 align = "center">Hola 👋, mi nombre es<br>Sergio Franco</h1>
 <h3 align = "center"> Soy programador y estudiante de la carrera de analista de sistemas </h3>
 
 <p align = "left" > <img src = "https://komarev.com/ghpvc/?username=nucleomis&label=Profile%20views&color=0e75b6&style=flat" alt = "nucleomis" /> </p>
